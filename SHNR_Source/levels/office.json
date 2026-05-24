@@ -1,0 +1,23 @@
+{
+  "author":   "Kachnozrout",
+
+  "welc_msg": "THEY HAVE NO GUNS",
+  "reset_hp": true,
+  "gun_load": 5,
+
+  "border_h": 20,
+  "border_w": 75,
+
+  "player_y": 10,
+  "player_x": 25,
+  "player_l": 2,
+
+  "obstcl_y": [ 8, 9, 10,11,12 ],
+  "obstcl_x": [ 35,35,35,35,35 ],
+  "obstcl_t": [ 0, 0, 2, 1, 0  ],
+
+  "redguy_y": [ 2, 6, 7, 9, 10,10,15,18 ],
+  "redguy_x": [ 10,25,34,50,61,4 ,10,20 ],
+  "redguy_l": [ -1,-1,-1,-1,-1,-1,-1,-1 ],
+  "redguy_s": [ 0, 0, 0, 0, 0, 0, 0, 0  ]
+}
